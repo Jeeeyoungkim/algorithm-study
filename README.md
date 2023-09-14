@@ -74,8 +74,10 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 ## ✅ 참여자와 진행도
 
 ### 🔥 챌린지 도전 🔥
-<table><tr>         <td align="center"><a href="https://github.com/jeeeyoungkim"><img src="https://avatars.githubusercontent.com/jeeeyoungkim?s=100" width="100px;" alt=""/>         <br /><sub><b>jeeeyoungkim</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/1"/></sub></a><br /></td>
-        
+<table><tr>         
+ <td align="center"><a href="https://github.com/jeeeyoungkim"><img src="https://avatars.githubusercontent.com/jeeeyoungkim?s=100" width="100px;" alt=""/>         <br /><sub><b>jeeeyoungkim</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/1"/></sub></a><br /></td>
+ <td align="center"><a href="https://github.com/2oooo914"><img src="https://avatars.githubusercontent.com/2oooo914?s=100" width="100px;" alt=""/>         <br /><sub><b>2oooo914</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/1"/></sub></a><br /></td>
+ <td align="center"><a href="https://github.com/minggwen"><img src="https://avatars.githubusercontent.com/minggwen?s=100" width="100px;" alt=""/>         <br /><sub><b>minggwen</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/1"/></sub></a><br /></td>
 </table><br />
 
 
