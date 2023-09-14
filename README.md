@@ -3,9 +3,8 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellynhan%2FChallenge100_Code_Test_Study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![All Contributors](https://img.shields.io/badge/All_contributors-58-orange.svg?style=flat-square)](#)
-[![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/ellynhan/Challenge100_Code_Test_Study/fork)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeeeyoungkim/algorithm-study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/Jeeeyoungkim/algorithm-study/fork)
 
 </div>
 
@@ -13,7 +12,7 @@
 # 💯 알고리즘 및 코딩 테스트 문제 풀이 챌린지 100 📝
 코딩테스트 날로먹고 싶은 사람들이 하는 알고리즘 및 코테 문제 풀이 스터디입니다.
 
-<https://waytocse.tistory.com/59>님 블로그와, 
+<https://waytocse.tistory.com/59>님 블로그와, <br />
 <https://github.com/ellynhan/challenge100-codingtest-study/tree/master> readme를 기반으로 작성하였습니다.
 <br />
 <br />
@@ -81,6 +80,6 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 ## ✅ 참여자와 진행도
 
 ### 🔥 챌린지 도전 🔥
-<table><tr>         <td align="center"><a href="https://github.com/wlwl1011"><img src="https://avatars.githubusercontent.com/u/62577565?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>wlwl1011</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/94"/></sub></a><br /></td>
+<table><tr>         <td align="center"><a href="https://github.com/jeeeyoungkim"><img src="https://avatars.githubusercontent.com/u/62577565?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>jeeeyoungkim</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/1"/></sub></a><br /></td>
         
 </table><br />
